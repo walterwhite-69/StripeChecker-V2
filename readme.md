@@ -44,7 +44,7 @@ pip install requests Faker rich
 2. **Proxies**: (Optional) Put your proxies in a file (Format: `ip:port` or `ip:port:user:pass`).
 3. **Run**:
 ```bash
-python checker.py
+python StripeChecker-V2.py
 ```
 4. **Configure**: Enter file paths and thread count (Recommended: 10-50 for stability).
 
